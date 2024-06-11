@@ -30,12 +30,3 @@ Suggests: R.rsp, knitr, BDgraph, data.table, plyr, scrime
 LazyData: true
 NeedsCompilation: yes
 SystemRequirements: C++17
-Packaged: 2024-06-10 18:01:27 UTC; zhiz
-Author: Marco Banterle [aut],
-  Zhi Zhao [aut, cre],
-  Leonardo Bottolo [ctb],
-  Sylvia Richardson [ctb],
-  Waldir Leoncio [ctb],
-  Alex Lewin [aut],
-  Manuela Zucknick [aut]
-Maintainer: Zhi Zhao <zhi.zhao@medisin.uio.no>
