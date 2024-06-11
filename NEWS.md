@@ -1,6 +1,20 @@
+# BayesSUR 2.1-9 (or BayesSUR 2.2-0 for CRAN)
+
+* Fixed a bug about the use of temperature parameter in `HRR_Chain.cpp`, also minor update in `SUR_Chain.cpp`
+
+# BayesSUR 2.1-8
+
+* Added argument `beta.type` in function `plotEstimator()` to plot MPM coefficient estimates
+* Fixed argument `mrfG` index issue in function `BayesSUR()`
+
+# BayesSUR 2.1-7
+
+* Increased the threshold of predictor dimension to 100000 (previously 5000) when pre-computing XtX
+* Minor changes of the parameter updates of the HRR models, especially in function `step()`
+
 # BayesSUR 2.1-6
 
-* Fixed knitr VignetteBuilder 
+* Fixed issues of knitr VignetteBuilder and README
 
 # BayesSUR 2.1-5
 

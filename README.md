@@ -3,7 +3,10 @@
 
 <!-- badges: start -->
 
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/BayesSUR)](https://cran.r-project.org/package=BayesSUR)
+[![CRAN](http://www.r-pkg.org/badges/version/BayesSUR)](https://cran.r-project.org/package=BayesSUR)
+[![r-universe](https://mbant.r-universe.dev/badges/BayesSUR)](https://mbant.r-universe.dev/BayesSUR)
+[![R-CMD-check](https://github.com/zhizuio/BayesSUR/BayesSUR/workflows/R-CMD-check/badge.svg)](https://github.com/zhizuio/BayesSUR/actions)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!-- badges: end -->
 
@@ -38,7 +41,7 @@ Here, we show a simulation example to run the BayesSUR mdoel with random effects
 We design a network as the following figure (a) to construct a complex structure between $20$ response variables and $300$ predictors.
 It assumes that the responses are divided into six groups, and the first $120$ predictors are divided into nine groups.
 
-<img src="BayesSUR/man/figures/figure2.png" width="90%" />
+<img src="man/figures/figure2.png" width="90%" />
 
 _**Figure**: True relationships between response variables and predictors.
 (a) Network structure between $\mathbf Y$ and $\mathbf X$.
