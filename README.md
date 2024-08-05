@@ -6,6 +6,7 @@
 [![r-universe](https://mbant.r-universe.dev/badges/BayesSUR)](https://mbant.r-universe.dev/BayesSUR)
 [![R-CMD-check](https://github.com/zhizuio/BayesSUR/workflows/R-CMD-check/badge.svg)](https://github.com/zhizuio/BayesSUR/actions)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/doi-10.32614%2FCRAN.package.BayesSUR-brightgreen)](https://doi.org/10.32614/CRAN.package.BayesSUR)
 
 <!-- badges: end -->
 
@@ -21,7 +22,7 @@ Install the latest released version from [CRAN](https://CRAN.R-project.org/packa
 install.packages("BayesSUR")
 ```
 
-Install the latest development version from GitHub
+Install the latest development version from [GitHub](https://github.com/mbant/BayesSUR)
 
 ```r
 #install.packages("remotes")
